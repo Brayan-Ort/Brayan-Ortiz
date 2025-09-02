@@ -1,9 +1,0 @@
-Objetivo: 
-Comprender que es un buscador de internet y como usarlo. 
-
-Investigación:
-Los buscadores de internet o motores de busqueda son aplicaciones informaticas que permiten navegar atravez de la red para poder realizar diversas actividades como: leer documentos, buscar guias de laboratorio, encontrar informacion de forma mas rapida, etc...
-Algunos buscadores importantes para estudiantes son: Google sholar, microsoft academic, emtre otros.  Estos buscadores permiten adquirir conocimiento cientifico de forma mas rapida y sencilla .
-
-Retrolimentacion:
-Como resumen de la actividad de hoy, revise varios de esos buscadores y en general aunque son buenos para documentos enteros las paginas online estan dominando en la busqueda rapida, no obstante para preguntas mas especificas que se busca una respuesta inmedianta actualmente se usa mas la ia generativa (chat gpt mayormente).Es necesario decir que lo mas importante es usar esos motores de busqueda para realizar investigaciones de un buen nivel. 
