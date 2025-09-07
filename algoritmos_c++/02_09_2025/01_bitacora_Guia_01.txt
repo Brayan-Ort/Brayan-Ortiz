@@ -1,9 +1,13 @@
-Objetivo: 
-Comprender que es un buscador de internet y como usarlo. 
+Bitácora: Buscadores de Internet para Fines Académicos
+Objetivo
+Comprender qué es un buscador de internet y cómo usarlo de manera adecuada para fines académicos, desarrollando habilidades de búsqueda efectiva que permitan acceder a información confiable y de calidad para trabajos de investigación.
 
-Investigación:
-Los buscadores de internet o motores de busqueda son aplicaciones informaticas que permiten navegar atravez de la red para poder realizar diversas actividades como: leer documentos, buscar guias de laboratorio, encontrar informacion de forma mas rapida, etc...
-Algunos buscadores importantes para estudiantes son: Google sholar, microsoft academic, emtre otros.  Estos buscadores permiten adquirir conocimiento cientifico de forma mas rapida y sencilla .
+Investigación
+Los buscadores de internet, también llamados motores de búsqueda, son aplicaciones informáticas que permiten navegar a través de la red para realizar diversas actividades como leer documentos científicos, consultar guías de laboratorio, acceder a bases de datos especializadas o encontrar información académica de forma rápida y eficiente.
+  -Buscadores Académicos Principales: Algunos buscadores importantes para estudiantes incluyen Google Scholar, que se especializa en literatura académica y permite acceder a artículos revisados por pares, tesis y conferencias; Microsoft Academic, que ofrece análisis bibliométricos
 
-Retrolimentacion:
-Como resumen de la actividad de hoy, revise varios de esos buscadores y en general aunque son buenos para documentos enteros las paginas online estan dominando en la busqueda rapida, no obstante para preguntas mas especificas que se busca una respuesta inmedianta actualmente se usa mas la ia generativa (chat gpt mayormente).Es necesario decir que lo mas importante es usar esos motores de busqueda para realizar investigaciones de un buen nivel. 
+Retroalimentación
+Como resumen de la actividad, revisé varios de estos buscadores académicos y observé que, aunque son muy útiles para acceder a documentos completos de alta calidad académica, las páginas web comunes y buscadores generalistas como Google siguen dominando en la búsqueda rápida de información general.
+Sin embargo, para preguntas específicas que requieren una respuesta inmediata y contextualizada, actualmente se usa con más frecuencia la inteligencia artificial generativa (principalmente ChatGPT, Claude y similares). Estas herramientas han revolucionado la forma de obtener información al proporcionar respuestas sintéticas y personalizadas
+Además, con ayuda de ChatGPT y otras investigaciones logré crear un repositorio en línea donde almacené esta misma bitácora para compartirla. No profundizaré en ese punto porque dentro del mismo repositorio hay otra actividad dedicada a explicar con más detalle el uso de GitHub y sus funciones.
+En conclusión, lo más importante es aprovechar los motores de búsqueda académicos y las herramientas de almacenamiento en línea para realizar investigaciones de calidad y trabajar de manera organizada.
