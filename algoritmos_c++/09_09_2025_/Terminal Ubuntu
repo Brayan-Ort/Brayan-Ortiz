@@ -1,4 +1,6 @@
-Instrucciones:
+
+Preguntas de reflexion:
+• ¿Cual fue el proposito de cada comando ejecutado?
 
 pwd: muestra el directorio en el cual me encuentro trabajando en este momento
 ls: Descargas   Escritorio  Música      Público  tic_05SEP2025 Documentos  Imágenes    Plantillas  snap     Vídeos (muestra los elementos donde me encuentro) 
@@ -11,18 +13,6 @@ mv archivo2 documentos: renombro el archivo2 y lo puso ahora como documentos
 rm documentos: borre el archivo "documentos" 
 cd .. :sali del directorio que cree con el comando mkdir
 rm -r :Borre el directorio previamente mencionado 
-
-Preguntas de reflexion:
-• ¿Cual fue el proposito de cada comando ejecutado?
-pwd: muestra la ubicacion actual
-ls: muestra elementos del directorio actual
-mkdir: crea una carpeta 
-cd: nos mueve al interior de una carpeta
-touch: crea un nuevo archivo
-cp: copia un archivo
-mv: renombra un archivo
-rm: borra un archivo
-rm -r: borra una carpeta
 
 • ¿Que ventajas tiene usar la terminal en comparacion con la interfaz grafica?
 la rapidez ya que en lo personal se me hace que es mas rapido crear comandos que ir dando clicks con el mouse y arrastrando archivos 
